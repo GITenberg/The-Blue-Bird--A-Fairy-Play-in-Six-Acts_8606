@@ -1,5 +1,5 @@
 _repo: The-Blue-Bird--A-Fairy-Play-in-Six-Acts_8606
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: L'oiseau bleu. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -22,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: A fairy play dealing with the search for the Blue Bird of happiness by
   the woodcutter's two children.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8606#The-Blue-Bird--A-Fairy-Play-in-Six-Acts
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
